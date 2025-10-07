@@ -1,3 +1,3 @@
 ## Gambar Hasil
 
-Eksekusi dari source code python, hanya PNG saja
+Eksekusi dari  python, khusunya `matplotlib`, hanya PNG saja

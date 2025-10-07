@@ -1,2 +1,2 @@
 # Kuliah-Isyarat
-Untuk pengumpulan perkuliahan yang menggunakan coding
+Untuk pengumpulan mata kuliah "Isyarat dan Sistem" yang menggunakan coding

@@ -1,3 +1,10 @@
 ## Tugas 1
 
-Pengumpulan tugas kesatu dari Isyarat dan Sistem
+### Main
+Berisi 1 lembar yang penting
+
+### Version
+1 lembar yang lain berisi versi `.py` sebelumnya
+
+### FFT Isyarat
+Full version file MS word

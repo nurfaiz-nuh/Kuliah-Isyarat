@@ -8,4 +8,4 @@ Menggunakan `librosa`, perawalan dari pembuatan file
 Menggunakan `soundfile`, menghilangkan margin untuk sinyal dan border
 
 ### 3rd ver.py
-Mengubah format waktu (70s -> 1:10) dan ribuan (2000 -> 2k)
+Mnambah `tick-axis` serta format waktu (70s -> 1:10) dan ribuan (2000 -> 2k)
